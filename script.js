@@ -7,7 +7,7 @@ let containerSenha = document.querySelector('#containerSenha');
 
 let charset = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ0123456789";
 
-let copiarSenha = "";
+let copiarSenha = ""; 
 
 valor.innerHTML = input.value;
 input.oninput = function () {
